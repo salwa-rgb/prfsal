@@ -16,7 +16,7 @@ const projects = [
   { src: "7.jpg",  title: "Infografis",  category: "Fotografi", year: 2025, desc: "" },
   { src: "4.jpg",  title: "PrototipeUI/UX", category: "Desain",    year: 2025, desc: "" },
   { src: "8.jpg",  title: "Congratulation",  category: "Website",   year: 2025, desc: "" },
-  { src: "6.jpg",  title: "Judul karya keenam",  category: "Fotografi", year: 2024, desc: "" },
+  { src: "6.jpg",  title: "Talent on Design",  category: "Fotografi", year: 2024, desc: "" },
   { src: "9.jpg",  title: "Trend", category: "Desain",    year: 2024, desc: "" },
   { src: "10.jpg",  title: "Design Information", category: "Website", year: 2024, desc: "" },
   { src: "porto sal.jpg",  title: "Brand", category: "Fotografi", year: 2024, desc: "" }
